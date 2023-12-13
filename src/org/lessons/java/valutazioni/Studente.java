@@ -5,7 +5,7 @@ import java.math.BigDecimal;
 public class Studente {
     private int idStudent;
 
-    private static int counter = 10;
+    private static int counter = 0;
     private int absences;
     private double media;
 
